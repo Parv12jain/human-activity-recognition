@@ -6,3 +6,5 @@ mysql-connector-python
 tensorflow
 numpy
 pydantic
+pandas
+
