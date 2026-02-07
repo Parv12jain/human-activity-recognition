@@ -1,5 +1,8 @@
-streamlit
-tensorflow
-pandas
-numpy
+fastapi
+uvicorn
+python-jose
+passlib[bcrypt]
 mysql-connector-python
+tensorflow
+numpy
+pydantic
